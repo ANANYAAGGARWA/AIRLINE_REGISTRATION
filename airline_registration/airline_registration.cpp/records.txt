@@ -1,0 +1,10 @@
+_____________xyz AIRLINES___________
+___________________Ticket_____________
+__________________________________________________
+Customer ID:12
+Customer Name:annaya
+Customer Gender:female
+	 Description
+
+destination		UK
+Flight cost: 		24000
